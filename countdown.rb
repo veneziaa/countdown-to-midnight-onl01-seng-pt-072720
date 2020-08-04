@@ -5,7 +5,7 @@ number -= 1
 end
 
 def countdown_with_sleep
-  sleep 5.SECOND
+  sleep 5.seconds
 end 
 
 def countdown
