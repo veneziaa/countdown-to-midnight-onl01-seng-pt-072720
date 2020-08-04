@@ -4,6 +4,10 @@ while number < 10
 number -= 1
 end
 
+def countdown_with_sleep
+  
+end 
+
 def countdown
   put "HAPPY NEW YEAR!"
 end
